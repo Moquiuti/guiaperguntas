@@ -14,3 +14,5 @@
  });
 
  Pergunta.sync({force: false}).then(() => {console.log("Tabela Pergunta criada com sucesso")}).catch((err) => {console.log("erro ao tentar criar tabela de perguntas: " +err)});
+
+ module.exports = Pergunta;
