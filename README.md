@@ -4,7 +4,7 @@ utilizado Node.js com html e css.
 Somente o básico do bootstrapp.
 
 ## Detalhes
-*Iniciando um projeto node
+* Iniciando um projeto Node
 > * npm init
 
 * express
